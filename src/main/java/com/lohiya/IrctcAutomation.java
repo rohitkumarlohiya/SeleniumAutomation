@@ -13,8 +13,8 @@ public class IrctcAutomation {
 		//System.setProperty("webdriver.gecko.driver", "C:\\Users\\ADMIN\\Downloads\\geckodriver.exe");
 		try {
 		String baseURL = "https://www.irctc.co.in";
-        String email = "rklohiya";
-        String password = "lohiya";
+        String email = "";
+        String password = "";
 
         
         driver = new FirefoxDriver();
